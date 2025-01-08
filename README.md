@@ -1,4 +1,4 @@
-MY BIRTHDAY
+``My Birthday`
 ### UI
 * Clean and Minimalist design
 
@@ -12,4 +12,3 @@ MY BIRTHDAY
 
 Download zip and extract and then run the index.html
 
-```
