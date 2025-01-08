@@ -1,4 +1,4 @@
-``My Birthday`
+### My Birthday
 ### UI
 * Clean and Minimalist design
 
